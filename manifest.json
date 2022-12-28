@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Random words generator",
+    "description": "Generate a random string/email including diacritical characters",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
